@@ -162,7 +162,7 @@
 
 /* team */
 
-.team {
+/* .team {
   background-color: #f4f4fd;
 }
 
@@ -215,11 +215,11 @@
 
 .sn-icon {
   fill: #f4f4fd;
-}
+} */
 
 /* portfolio */
 
-.portfolio-list {
+/* .portfolio-list {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
@@ -273,7 +273,7 @@
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
   padding: 32px 16px;
-}
+} */
 
 /* footer */
 
